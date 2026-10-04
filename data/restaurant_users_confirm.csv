@@ -1,0 +1,1001 @@
+USER ID,AMOUNT SPENT ON THAT DAY(20/10/2024),Payment Method,Feedback Score (1-5),Favorite Dish,Visit Frequency,DATE
+1,541,UPI,1,Masala Dosa,Medium,20-10-2024
+2,672,UPI,5,Pasta,High,20-10-2024
+3,1058,Credit Card,3,Biryani,High,20-10-2024
+4,535,Debit Card,2,Butter Chicken,Medium,20-10-2024
+5,1151,Debit Card,4,Masala Dosa,Medium,20-10-2024
+6,326,UPI,5,Pasta,Medium,20-10-2024
+7,1457,Debit Card,3,Masala Dosa,Low,20-10-2024
+8,919,Credit Card,5,Paneer Tikka,Low,20-10-2024
+9,467,Credit Card,5,Pasta,Low,20-10-2024
+10,365,Credit Card,4,Masala Dosa,Low,20-10-2024
+11,794,Debit Card,2,Pasta,Medium,20-10-2024
+12,1093,UPI,5,Masala Dosa,Medium,20-10-2024
+13,664,Cash,4,Pasta,Medium,20-10-2024
+14,544,Debit Card,2,Butter Chicken,Low,20-10-2024
+15,752,Credit Card,5,Paneer Tikka,Medium,20-10-2024
+16,352,UPI,4,Masala Dosa,Medium,20-10-2024
+17,664,Debit Card,4,Masala Dosa,High,20-10-2024
+18,323,Debit Card,3,Butter Chicken,Medium,20-10-2024
+19,822,UPI,2,Butter Chicken,Low,20-10-2024
+20,1479,UPI,2,Masala Dosa,Low,20-10-2024
+21,706,UPI,5,Masala Dosa,Low,20-10-2024
+22,1435,Credit Card,5,Pasta,Low,20-10-2024
+23,744,UPI,4,Biryani,Low,20-10-2024
+24,406,Debit Card,5,Paneer Tikka,Medium,20-10-2024
+25,1459,Debit Card,3,Pasta,Low,20-10-2024
+26,1304,UPI,2,Masala Dosa,High,20-10-2024
+27,687,UPI,5,Butter Chicken,High,20-10-2024
+28,1486,Cash,3,Pasta,Low,20-10-2024
+29,775,Debit Card,1,Paneer Tikka,Low,20-10-2024
+30,381,Cash,4,Biryani,Medium,20-10-2024
+31,1289,Debit Card,4,Pasta,Low,20-10-2024
+32,1196,Credit Card,3,Paneer Tikka,Medium,20-10-2024
+33,1047,Debit Card,1,Pasta,Low,20-10-2024
+34,1209,Credit Card,4,Biryani,Medium,20-10-2024
+35,326,Cash,3,Pasta,Medium,20-10-2024
+36,502,Debit Card,3,Butter Chicken,High,20-10-2024
+37,1296,Debit Card,3,Butter Chicken,High,20-10-2024
+38,880,UPI,4,Paneer Tikka,Low,20-10-2024
+39,460,Debit Card,5,Pasta,Low,20-10-2024
+40,1142,UPI,3,Butter Chicken,High,20-10-2024
+41,1253,UPI,5,Biryani,Medium,20-10-2024
+42,476,Debit Card,2,Masala Dosa,High,20-10-2024
+43,416,Debit Card,1,Masala Dosa,Medium,20-10-2024
+44,342,Cash,4,Paneer Tikka,Low,20-10-2024
+45,918,Debit Card,1,Paneer Tikka,Medium,20-10-2024
+46,541,Cash,2,Paneer Tikka,Medium,20-10-2024
+47,1152,Cash,1,Masala Dosa,Medium,20-10-2024
+48,1085,Cash,1,Masala Dosa,Low,20-10-2024
+49,345,Cash,4,Biryani,High,20-10-2024
+50,866,UPI,3,Masala Dosa,Low,20-10-2024
+51,1316,Debit Card,2,Butter Chicken,Low,20-10-2024
+52,1489,Credit Card,5,Masala Dosa,Low,20-10-2024
+53,1465,Debit Card,5,Paneer Tikka,Low,20-10-2024
+54,1028,Cash,2,Masala Dosa,Low,20-10-2024
+55,1057,Credit Card,5,Biryani,Low,20-10-2024
+56,774,Credit Card,3,Paneer Tikka,High,20-10-2024
+57,1243,Credit Card,4,Masala Dosa,Medium,20-10-2024
+58,507,Credit Card,3,Butter Chicken,High,20-10-2024
+59,875,Credit Card,3,Paneer Tikka,Medium,20-10-2024
+60,310,Debit Card,1,Pasta,Low,20-10-2024
+61,1393,Credit Card,2,Butter Chicken,High,20-10-2024
+62,972,Cash,4,Paneer Tikka,Low,20-10-2024
+63,1418,Credit Card,2,Pasta,Medium,20-10-2024
+64,1014,Debit Card,5,Pasta,Low,20-10-2024
+65,415,UPI,3,Butter Chicken,High,20-10-2024
+66,427,Credit Card,5,Biryani,Low,20-10-2024
+67,851,UPI,4,Masala Dosa,High,20-10-2024
+68,620,Cash,5,Masala Dosa,High,20-10-2024
+69,1437,UPI,3,Biryani,Medium,20-10-2024
+70,730,UPI,1,Butter Chicken,High,20-10-2024
+71,1281,Cash,3,Pasta,High,20-10-2024
+72,957,Cash,5,Pasta,High,20-10-2024
+73,1217,Credit Card,1,Paneer Tikka,High,20-10-2024
+74,727,Cash,2,Butter Chicken,Low,20-10-2024
+75,325,Cash,4,Butter Chicken,Low,20-10-2024
+76,1438,Credit Card,3,Biryani,High,20-10-2024
+77,559,UPI,4,Masala Dosa,Low,20-10-2024
+78,1001,Cash,3,Butter Chicken,Medium,20-10-2024
+79,687,UPI,1,Paneer Tikka,High,20-10-2024
+80,1425,UPI,5,Paneer Tikka,Low,20-10-2024
+81,1107,Credit Card,5,Pasta,Medium,20-10-2024
+82,1039,Credit Card,2,Pasta,High,20-10-2024
+83,1161,Credit Card,5,Masala Dosa,High,20-10-2024
+84,1060,Cash,2,Masala Dosa,High,20-10-2024
+85,509,Debit Card,3,Butter Chicken,Low,20-10-2024
+86,332,Debit Card,2,Biryani,Medium,20-10-2024
+87,1148,Credit Card,3,Pasta,Medium,20-10-2024
+88,812,Debit Card,5,Biryani,Low,20-10-2024
+89,619,UPI,3,Biryani,Low,20-10-2024
+90,1058,Credit Card,3,Butter Chicken,Low,20-10-2024
+91,1125,UPI,3,Paneer Tikka,Medium,20-10-2024
+92,1369,Debit Card,1,Biryani,High,20-10-2024
+93,622,UPI,4,Paneer Tikka,Medium,20-10-2024
+94,417,UPI,5,Masala Dosa,High,20-10-2024
+95,1232,UPI,3,Biryani,High,20-10-2024
+96,572,Credit Card,5,Paneer Tikka,High,20-10-2024
+97,792,Cash,5,Biryani,Medium,20-10-2024
+98,717,Credit Card,2,Paneer Tikka,High,20-10-2024
+99,1125,Cash,1,Biryani,Medium,20-10-2024
+100,892,Debit Card,2,Paneer Tikka,Low,20-10-2024
+101,1269,Credit Card,2,Pasta,Medium,20-10-2024
+102,576,UPI,3,Biryani,Medium,20-10-2024
+103,354,Debit Card,3,Pasta,Low,20-10-2024
+104,991,Debit Card,4,Butter Chicken,Low,20-10-2024
+105,1075,Credit Card,5,Masala Dosa,High,20-10-2024
+106,774,Cash,1,Paneer Tikka,Medium,20-10-2024
+107,651,Cash,2,Butter Chicken,High,20-10-2024
+108,423,Credit Card,5,Butter Chicken,High,20-10-2024
+109,803,Debit Card,4,Biryani,Low,20-10-2024
+110,1219,UPI,4,Paneer Tikka,Medium,20-10-2024
+111,832,Credit Card,1,Butter Chicken,Low,20-10-2024
+112,314,UPI,3,Masala Dosa,Low,20-10-2024
+113,1243,Credit Card,5,Paneer Tikka,High,20-10-2024
+114,890,Credit Card,3,Paneer Tikka,High,20-10-2024
+115,726,Cash,4,Paneer Tikka,Low,20-10-2024
+116,1388,Credit Card,4,Masala Dosa,Low,20-10-2024
+117,713,Debit Card,1,Paneer Tikka,Low,20-10-2024
+118,860,Cash,3,Masala Dosa,High,20-10-2024
+119,773,UPI,3,Masala Dosa,Low,20-10-2024
+120,1298,UPI,2,Pasta,High,20-10-2024
+121,872,Debit Card,3,Pasta,High,20-10-2024
+122,670,Debit Card,2,Pasta,Medium,20-10-2024
+123,717,Credit Card,3,Masala Dosa,High,20-10-2024
+124,1349,UPI,3,Masala Dosa,Medium,20-10-2024
+125,995,UPI,1,Pasta,Low,20-10-2024
+126,713,Debit Card,4,Biryani,Medium,20-10-2024
+127,443,UPI,4,Masala Dosa,Low,20-10-2024
+128,1260,UPI,5,Biryani,Medium,20-10-2024
+129,880,Credit Card,4,Butter Chicken,Medium,20-10-2024
+130,1192,Debit Card,3,Butter Chicken,High,20-10-2024
+131,1088,Credit Card,3,Butter Chicken,Medium,20-10-2024
+132,1093,Credit Card,3,Paneer Tikka,High,20-10-2024
+133,795,Cash,3,Masala Dosa,Medium,20-10-2024
+134,832,Cash,2,Butter Chicken,Medium,20-10-2024
+135,1371,Credit Card,5,Biryani,Medium,20-10-2024
+136,468,Credit Card,3,Pasta,Medium,20-10-2024
+137,434,Debit Card,1,Pasta,High,20-10-2024
+138,775,Cash,2,Biryani,High,20-10-2024
+139,1296,UPI,4,Masala Dosa,High,20-10-2024
+140,1153,Debit Card,5,Biryani,Low,20-10-2024
+141,1163,Credit Card,3,Pasta,Low,20-10-2024
+142,1498,Credit Card,2,Pasta,Medium,20-10-2024
+143,1118,Credit Card,5,Butter Chicken,High,20-10-2024
+144,550,Debit Card,2,Biryani,Low,20-10-2024
+145,1181,UPI,4,Biryani,Medium,20-10-2024
+146,1334,UPI,2,Butter Chicken,Low,20-10-2024
+147,1229,Debit Card,1,Paneer Tikka,High,20-10-2024
+148,651,UPI,4,Butter Chicken,High,20-10-2024
+149,588,Cash,2,Butter Chicken,High,20-10-2024
+150,500,Debit Card,2,Masala Dosa,High,20-10-2024
+151,1489,Credit Card,4,Paneer Tikka,High,20-10-2024
+152,844,Cash,4,Biryani,High,20-10-2024
+153,1018,Debit Card,1,Masala Dosa,Low,20-10-2024
+154,1423,Credit Card,5,Masala Dosa,High,20-10-2024
+155,1241,Debit Card,3,Butter Chicken,Medium,20-10-2024
+156,685,Cash,3,Butter Chicken,High,20-10-2024
+157,863,Credit Card,2,Butter Chicken,Low,20-10-2024
+158,798,Cash,1,Pasta,Medium,20-10-2024
+159,1287,Credit Card,5,Masala Dosa,Medium,20-10-2024
+160,805,UPI,3,Butter Chicken,High,20-10-2024
+161,450,UPI,4,Biryani,Medium,20-10-2024
+162,924,UPI,2,Butter Chicken,Medium,20-10-2024
+163,1495,Debit Card,5,Paneer Tikka,High,20-10-2024
+164,718,Debit Card,3,Masala Dosa,Medium,20-10-2024
+165,366,Credit Card,5,Paneer Tikka,Medium,20-10-2024
+166,610,Debit Card,5,Butter Chicken,Low,20-10-2024
+167,1084,Cash,3,Biryani,Medium,20-10-2024
+168,748,UPI,5,Butter Chicken,Medium,20-10-2024
+169,1234,Cash,3,Pasta,Low,20-10-2024
+170,637,Cash,2,Biryani,Medium,20-10-2024
+171,522,UPI,1,Masala Dosa,Low,20-10-2024
+172,984,UPI,1,Paneer Tikka,Medium,20-10-2024
+173,620,Debit Card,2,Pasta,Low,20-10-2024
+174,447,Debit Card,1,Masala Dosa,Medium,20-10-2024
+175,1175,Credit Card,3,Masala Dosa,Medium,20-10-2024
+176,911,Debit Card,5,Biryani,Low,20-10-2024
+177,501,Debit Card,4,Masala Dosa,High,20-10-2024
+178,1412,Cash,3,Pasta,Medium,20-10-2024
+179,1367,UPI,3,Masala Dosa,Low,20-10-2024
+180,921,Cash,2,Paneer Tikka,Low,20-10-2024
+181,1204,Credit Card,3,Paneer Tikka,High,20-10-2024
+182,1054,Cash,4,Biryani,Medium,20-10-2024
+183,778,Credit Card,2,Masala Dosa,Low,20-10-2024
+184,1447,UPI,3,Butter Chicken,Low,20-10-2024
+185,1157,UPI,2,Masala Dosa,High,20-10-2024
+186,1471,UPI,2,Biryani,Low,20-10-2024
+187,477,Cash,1,Paneer Tikka,Medium,20-10-2024
+188,758,Debit Card,1,Pasta,Medium,20-10-2024
+189,1427,Debit Card,3,Masala Dosa,Low,20-10-2024
+190,1055,Credit Card,5,Masala Dosa,Low,20-10-2024
+191,1075,UPI,5,Paneer Tikka,Medium,20-10-2024
+192,798,Credit Card,2,Biryani,Low,20-10-2024
+193,1304,Cash,5,Masala Dosa,High,20-10-2024
+194,704,Credit Card,3,Paneer Tikka,High,20-10-2024
+195,1374,UPI,4,Butter Chicken,High,20-10-2024
+196,1214,Debit Card,3,Masala Dosa,Medium,20-10-2024
+197,1227,Credit Card,3,Pasta,Medium,20-10-2024
+198,736,Credit Card,4,Masala Dosa,Medium,20-10-2024
+199,1269,Credit Card,2,Butter Chicken,Low,20-10-2024
+200,317,Credit Card,2,Butter Chicken,High,20-10-2024
+201,979,Credit Card,5,Pasta,Low,20-10-2024
+202,753,Cash,5,Masala Dosa,Medium,20-10-2024
+203,1086,UPI,1,Biryani,High,20-10-2024
+204,1342,Cash,2,Pasta,High,20-10-2024
+205,611,Credit Card,2,Butter Chicken,Low,20-10-2024
+206,859,Cash,5,Masala Dosa,Low,20-10-2024
+207,783,Credit Card,5,Biryani,Medium,20-10-2024
+208,1125,Cash,5,Paneer Tikka,Low,20-10-2024
+209,1466,Cash,4,Pasta,Low,20-10-2024
+210,1406,Cash,2,Biryani,Low,20-10-2024
+211,380,Credit Card,5,Butter Chicken,Medium,20-10-2024
+212,1178,Credit Card,1,Masala Dosa,High,20-10-2024
+213,637,Cash,1,Paneer Tikka,Medium,20-10-2024
+214,1227,Debit Card,5,Paneer Tikka,Low,20-10-2024
+215,606,Credit Card,3,Butter Chicken,Medium,20-10-2024
+216,671,UPI,2,Biryani,Low,20-10-2024
+217,1420,Debit Card,4,Butter Chicken,Low,20-10-2024
+218,1362,Cash,3,Biryani,Medium,20-10-2024
+219,795,Debit Card,2,Paneer Tikka,Medium,20-10-2024
+220,1452,UPI,3,Paneer Tikka,High,20-10-2024
+221,690,Debit Card,5,Pasta,Low,20-10-2024
+222,1282,UPI,5,Biryani,Medium,20-10-2024
+223,992,Cash,4,Masala Dosa,High,20-10-2024
+224,1326,Cash,5,Butter Chicken,High,20-10-2024
+225,1378,Debit Card,3,Butter Chicken,Low,20-10-2024
+226,1229,Credit Card,3,Masala Dosa,High,20-10-2024
+227,957,Credit Card,1,Butter Chicken,Medium,20-10-2024
+228,1064,Debit Card,5,Masala Dosa,Medium,20-10-2024
+229,1451,Debit Card,2,Pasta,Medium,20-10-2024
+230,1178,Debit Card,3,Biryani,Low,20-10-2024
+231,333,Credit Card,4,Masala Dosa,High,20-10-2024
+232,382,Cash,2,Butter Chicken,High,20-10-2024
+233,877,Cash,2,Paneer Tikka,High,20-10-2024
+234,580,Cash,2,Biryani,Low,20-10-2024
+235,1234,Credit Card,5,Paneer Tikka,Low,20-10-2024
+236,625,Cash,2,Masala Dosa,Medium,20-10-2024
+237,1181,Debit Card,1,Pasta,Low,20-10-2024
+238,1314,UPI,2,Biryani,High,20-10-2024
+239,339,Cash,2,Butter Chicken,High,20-10-2024
+240,418,Cash,2,Paneer Tikka,High,20-10-2024
+241,704,Cash,2,Masala Dosa,Low,20-10-2024
+242,696,Cash,3,Pasta,High,20-10-2024
+243,848,Credit Card,3,Paneer Tikka,High,20-10-2024
+244,492,Cash,5,Paneer Tikka,Medium,20-10-2024
+245,404,Credit Card,5,Biryani,Medium,20-10-2024
+246,503,Cash,2,Masala Dosa,Low,20-10-2024
+247,356,Cash,2,Biryani,Medium,20-10-2024
+248,1160,Cash,4,Pasta,Low,20-10-2024
+249,1416,UPI,4,Paneer Tikka,High,20-10-2024
+250,680,Debit Card,1,Masala Dosa,Low,20-10-2024
+251,430,Credit Card,4,Masala Dosa,Low,20-10-2024
+252,1013,Credit Card,1,Masala Dosa,Medium,20-10-2024
+253,1025,Credit Card,3,Pasta,Low,20-10-2024
+254,1287,Debit Card,4,Paneer Tikka,High,20-10-2024
+255,971,UPI,4,Masala Dosa,High,20-10-2024
+256,1355,Debit Card,4,Masala Dosa,Medium,20-10-2024
+257,735,UPI,5,Pasta,High,20-10-2024
+258,1137,Debit Card,3,Biryani,Medium,20-10-2024
+259,1380,Debit Card,3,Biryani,High,20-10-2024
+260,711,Debit Card,3,Butter Chicken,Low,20-10-2024
+261,1473,Cash,3,Pasta,Low,20-10-2024
+262,442,Debit Card,2,Biryani,Medium,20-10-2024
+263,641,Credit Card,1,Pasta,Low,20-10-2024
+264,376,Credit Card,5,Butter Chicken,Low,20-10-2024
+265,1011,Debit Card,1,Paneer Tikka,Low,20-10-2024
+266,1263,Debit Card,4,Paneer Tikka,High,20-10-2024
+267,1230,Cash,4,Masala Dosa,Medium,20-10-2024
+268,1436,Credit Card,4,Masala Dosa,Medium,20-10-2024
+269,661,UPI,3,Biryani,Medium,20-10-2024
+270,1344,Credit Card,5,Butter Chicken,Medium,20-10-2024
+271,948,Credit Card,1,Butter Chicken,High,20-10-2024
+272,992,Cash,1,Masala Dosa,High,20-10-2024
+273,506,Debit Card,5,Biryani,Low,20-10-2024
+274,1479,Debit Card,3,Paneer Tikka,Medium,20-10-2024
+275,982,Cash,4,Biryani,Medium,20-10-2024
+276,1497,Credit Card,2,Masala Dosa,Low,20-10-2024
+277,623,Credit Card,5,Butter Chicken,High,20-10-2024
+278,1087,Cash,5,Pasta,High,20-10-2024
+279,1388,UPI,4,Butter Chicken,High,20-10-2024
+280,1490,UPI,1,Paneer Tikka,Low,20-10-2024
+281,454,Cash,2,Paneer Tikka,Medium,20-10-2024
+282,693,Debit Card,5,Butter Chicken,Low,20-10-2024
+283,783,UPI,3,Paneer Tikka,Medium,20-10-2024
+284,813,Cash,1,Pasta,Medium,20-10-2024
+285,860,Credit Card,3,Biryani,Medium,20-10-2024
+286,711,Cash,4,Butter Chicken,Low,20-10-2024
+287,1464,Cash,1,Masala Dosa,High,20-10-2024
+288,716,Credit Card,4,Paneer Tikka,Medium,20-10-2024
+289,639,Credit Card,4,Biryani,Low,20-10-2024
+290,1247,Cash,4,Pasta,Low,20-10-2024
+291,848,Cash,4,Masala Dosa,Medium,20-10-2024
+292,834,UPI,1,Paneer Tikka,Medium,20-10-2024
+293,1132,UPI,2,Pasta,Medium,20-10-2024
+294,1496,Cash,2,Paneer Tikka,Low,20-10-2024
+295,1066,Credit Card,3,Biryani,Low,20-10-2024
+296,822,UPI,4,Paneer Tikka,Medium,20-10-2024
+297,968,UPI,4,Masala Dosa,Low,20-10-2024
+298,1142,Credit Card,3,Biryani,High,20-10-2024
+299,452,Credit Card,3,Masala Dosa,High,20-10-2024
+300,743,Cash,2,Paneer Tikka,Low,20-10-2024
+301,1468,Cash,5,Biryani,Low,20-10-2024
+302,819,Debit Card,3,Butter Chicken,High,20-10-2024
+303,1357,UPI,1,Pasta,Low,20-10-2024
+304,549,Cash,3,Pasta,High,20-10-2024
+305,1491,Cash,3,Butter Chicken,Medium,20-10-2024
+306,1113,UPI,5,Biryani,Medium,20-10-2024
+307,609,UPI,3,Butter Chicken,Low,20-10-2024
+308,996,Credit Card,5,Paneer Tikka,Low,20-10-2024
+309,1011,UPI,4,Biryani,High,20-10-2024
+310,551,Cash,5,Masala Dosa,High,20-10-2024
+311,348,Cash,2,Pasta,High,20-10-2024
+312,308,Credit Card,5,Pasta,Medium,20-10-2024
+313,953,Cash,3,Paneer Tikka,Low,20-10-2024
+314,1127,Credit Card,5,Masala Dosa,Medium,20-10-2024
+315,681,Cash,2,Masala Dosa,Low,20-10-2024
+316,474,Debit Card,3,Biryani,High,20-10-2024
+317,799,Debit Card,5,Butter Chicken,Medium,20-10-2024
+318,584,Cash,3,Pasta,Low,20-10-2024
+319,649,Cash,3,Butter Chicken,Low,20-10-2024
+320,816,Cash,2,Masala Dosa,High,20-10-2024
+321,1087,Debit Card,3,Pasta,Medium,20-10-2024
+322,825,Debit Card,1,Pasta,High,20-10-2024
+323,612,UPI,2,Biryani,High,20-10-2024
+324,816,UPI,3,Biryani,Medium,20-10-2024
+325,880,Cash,1,Masala Dosa,High,20-10-2024
+326,561,Cash,5,Masala Dosa,Medium,20-10-2024
+327,894,Debit Card,5,Biryani,Low,20-10-2024
+328,1073,Cash,2,Biryani,High,20-10-2024
+329,889,Debit Card,3,Pasta,High,20-10-2024
+330,309,Debit Card,4,Pasta,Low,20-10-2024
+331,1183,Cash,3,Butter Chicken,High,20-10-2024
+332,1248,Credit Card,1,Pasta,Low,20-10-2024
+333,740,Credit Card,2,Pasta,Low,20-10-2024
+334,534,Cash,4,Pasta,Medium,20-10-2024
+335,1275,Debit Card,4,Pasta,Low,20-10-2024
+336,814,Debit Card,1,Paneer Tikka,High,20-10-2024
+337,1011,Cash,5,Paneer Tikka,Low,20-10-2024
+338,758,Debit Card,1,Biryani,Low,20-10-2024
+339,446,UPI,1,Masala Dosa,Medium,20-10-2024
+340,1257,UPI,4,Pasta,High,20-10-2024
+341,760,Credit Card,1,Paneer Tikka,Medium,20-10-2024
+342,656,Credit Card,4,Butter Chicken,Medium,20-10-2024
+343,675,Cash,1,Paneer Tikka,High,20-10-2024
+344,630,Debit Card,1,Butter Chicken,High,20-10-2024
+345,388,Debit Card,5,Masala Dosa,High,20-10-2024
+346,1322,Debit Card,2,Biryani,Medium,20-10-2024
+347,990,Debit Card,1,Butter Chicken,Medium,20-10-2024
+348,1286,Debit Card,4,Butter Chicken,High,20-10-2024
+349,987,Cash,1,Paneer Tikka,Medium,20-10-2024
+350,402,Credit Card,2,Paneer Tikka,High,20-10-2024
+351,310,Debit Card,2,Biryani,High,20-10-2024
+352,1174,Credit Card,2,Biryani,Medium,20-10-2024
+353,1475,UPI,5,Paneer Tikka,High,20-10-2024
+354,548,Cash,4,Biryani,Low,20-10-2024
+355,1359,Credit Card,5,Biryani,Low,20-10-2024
+356,773,Credit Card,4,Masala Dosa,High,20-10-2024
+357,338,Credit Card,4,Pasta,Low,20-10-2024
+358,1430,Cash,4,Pasta,Low,20-10-2024
+359,1121,Debit Card,4,Biryani,Low,20-10-2024
+360,1324,Credit Card,5,Paneer Tikka,Low,20-10-2024
+361,304,Cash,4,Pasta,Medium,20-10-2024
+362,938,Cash,5,Paneer Tikka,Medium,20-10-2024
+363,734,UPI,1,Paneer Tikka,Low,20-10-2024
+364,1207,Cash,5,Butter Chicken,Medium,20-10-2024
+365,1045,UPI,2,Pasta,Medium,20-10-2024
+366,966,Credit Card,5,Paneer Tikka,High,20-10-2024
+367,1015,Credit Card,4,Butter Chicken,High,20-10-2024
+368,1223,UPI,1,Masala Dosa,Medium,20-10-2024
+369,941,Debit Card,5,Pasta,Medium,20-10-2024
+370,1434,UPI,3,Paneer Tikka,Low,20-10-2024
+371,1025,Debit Card,4,Biryani,Low,20-10-2024
+372,1191,Debit Card,1,Butter Chicken,Medium,20-10-2024
+373,367,Credit Card,4,Paneer Tikka,Low,20-10-2024
+374,820,UPI,4,Masala Dosa,Medium,20-10-2024
+375,1406,Debit Card,1,Biryani,Medium,20-10-2024
+376,1452,UPI,5,Biryani,Medium,20-10-2024
+377,675,Debit Card,1,Masala Dosa,Medium,20-10-2024
+378,614,Debit Card,4,Pasta,Medium,20-10-2024
+379,653,Credit Card,2,Butter Chicken,Low,20-10-2024
+380,1125,Debit Card,5,Biryani,Medium,20-10-2024
+381,1332,UPI,1,Biryani,Low,20-10-2024
+382,865,Credit Card,4,Masala Dosa,Medium,20-10-2024
+383,1491,UPI,1,Paneer Tikka,High,20-10-2024
+384,766,Debit Card,2,Paneer Tikka,Low,20-10-2024
+385,589,Cash,2,Biryani,High,20-10-2024
+386,588,UPI,4,Biryani,Low,20-10-2024
+387,766,Debit Card,1,Paneer Tikka,Low,20-10-2024
+388,1186,Credit Card,4,Paneer Tikka,Low,20-10-2024
+389,1454,Cash,1,Pasta,Low,20-10-2024
+390,1373,Debit Card,1,Pasta,Low,20-10-2024
+391,1263,Debit Card,1,Biryani,Low,20-10-2024
+392,323,Credit Card,4,Biryani,Medium,20-10-2024
+393,1470,UPI,5,Butter Chicken,Low,20-10-2024
+394,657,Debit Card,4,Masala Dosa,High,20-10-2024
+395,759,Credit Card,5,Masala Dosa,Low,20-10-2024
+396,675,Credit Card,5,Masala Dosa,Medium,20-10-2024
+397,833,Cash,1,Masala Dosa,Low,20-10-2024
+398,1179,Cash,1,Butter Chicken,High,20-10-2024
+399,836,UPI,5,Masala Dosa,Medium,20-10-2024
+400,1213,Credit Card,5,Biryani,Medium,20-10-2024
+401,944,Debit Card,2,Paneer Tikka,High,20-10-2024
+402,899,UPI,3,Pasta,Low,20-10-2024
+403,1485,Debit Card,4,Pasta,Medium,20-10-2024
+404,1297,Cash,4,Paneer Tikka,Low,20-10-2024
+405,561,Cash,4,Pasta,Low,20-10-2024
+406,370,Debit Card,5,Butter Chicken,Low,20-10-2024
+407,1111,Cash,2,Pasta,Medium,20-10-2024
+408,829,UPI,2,Biryani,Low,20-10-2024
+409,832,Cash,4,Paneer Tikka,Medium,20-10-2024
+410,322,Cash,1,Paneer Tikka,High,20-10-2024
+411,1499,Cash,3,Biryani,Medium,20-10-2024
+412,1013,Credit Card,3,Paneer Tikka,Medium,20-10-2024
+413,474,Cash,2,Butter Chicken,Low,20-10-2024
+414,1218,UPI,2,Paneer Tikka,Medium,20-10-2024
+415,656,UPI,1,Biryani,Low,20-10-2024
+416,630,Credit Card,1,Biryani,Medium,20-10-2024
+417,1382,Credit Card,5,Paneer Tikka,Medium,20-10-2024
+418,652,UPI,1,Masala Dosa,High,20-10-2024
+419,786,Debit Card,2,Butter Chicken,Low,20-10-2024
+420,1244,UPI,3,Butter Chicken,Low,20-10-2024
+421,1252,Credit Card,3,Biryani,Medium,20-10-2024
+422,305,UPI,4,Pasta,Low,20-10-2024
+423,970,Cash,5,Biryani,High,20-10-2024
+424,1426,Cash,3,Butter Chicken,High,20-10-2024
+425,840,UPI,2,Pasta,Low,20-10-2024
+426,793,Debit Card,3,Paneer Tikka,Medium,20-10-2024
+427,638,Debit Card,3,Paneer Tikka,High,20-10-2024
+428,1203,Debit Card,1,Paneer Tikka,Medium,20-10-2024
+429,1248,UPI,2,Biryani,High,20-10-2024
+430,572,UPI,5,Pasta,Medium,20-10-2024
+431,474,UPI,4,Butter Chicken,Medium,20-10-2024
+432,627,UPI,5,Butter Chicken,Medium,20-10-2024
+433,1459,Credit Card,3,Biryani,Medium,20-10-2024
+434,808,Debit Card,2,Pasta,Low,20-10-2024
+435,897,Cash,5,Masala Dosa,Low,20-10-2024
+436,1340,Cash,5,Butter Chicken,Medium,20-10-2024
+437,1193,UPI,3,Butter Chicken,Low,20-10-2024
+438,786,Debit Card,1,Biryani,High,20-10-2024
+439,433,Debit Card,5,Biryani,High,20-10-2024
+440,980,UPI,2,Pasta,Medium,20-10-2024
+441,848,Debit Card,2,Biryani,High,20-10-2024
+442,437,UPI,5,Pasta,Low,20-10-2024
+443,704,UPI,4,Masala Dosa,High,20-10-2024
+444,753,Cash,3,Paneer Tikka,Low,20-10-2024
+445,607,Credit Card,4,Biryani,High,20-10-2024
+446,704,Cash,1,Biryani,Low,20-10-2024
+447,803,Cash,5,Butter Chicken,High,20-10-2024
+448,1394,Debit Card,3,Paneer Tikka,Medium,20-10-2024
+449,527,UPI,5,Paneer Tikka,Medium,20-10-2024
+450,1360,Debit Card,1,Butter Chicken,High,20-10-2024
+451,1099,Debit Card,1,Masala Dosa,Medium,20-10-2024
+452,981,Cash,2,Butter Chicken,Medium,20-10-2024
+453,334,Cash,2,Pasta,High,20-10-2024
+454,820,UPI,1,Butter Chicken,High,20-10-2024
+455,452,Credit Card,4,Biryani,High,20-10-2024
+456,486,Credit Card,3,Biryani,Medium,20-10-2024
+457,809,UPI,2,Pasta,High,20-10-2024
+458,1155,Cash,1,Pasta,Medium,20-10-2024
+459,564,Cash,5,Pasta,Low,20-10-2024
+460,733,Credit Card,5,Pasta,Low,20-10-2024
+461,437,Cash,1,Butter Chicken,Medium,20-10-2024
+462,477,Debit Card,3,Pasta,Low,20-10-2024
+463,1443,Debit Card,5,Pasta,High,20-10-2024
+464,881,Cash,1,Biryani,High,20-10-2024
+465,357,Cash,3,Pasta,Low,20-10-2024
+466,1440,Credit Card,5,Pasta,High,20-10-2024
+467,799,UPI,5,Biryani,Medium,20-10-2024
+468,1089,Cash,2,Biryani,High,20-10-2024
+469,1144,Cash,4,Masala Dosa,Medium,20-10-2024
+470,1293,UPI,1,Butter Chicken,High,20-10-2024
+471,569,UPI,5,Masala Dosa,Low,20-10-2024
+472,1100,Cash,2,Paneer Tikka,Medium,20-10-2024
+473,425,Cash,1,Butter Chicken,Medium,20-10-2024
+474,984,Debit Card,1,Masala Dosa,Low,20-10-2024
+475,421,UPI,2,Biryani,Medium,20-10-2024
+476,623,Cash,3,Pasta,Low,20-10-2024
+477,1330,UPI,2,Masala Dosa,Medium,20-10-2024
+478,1101,Credit Card,3,Masala Dosa,Low,20-10-2024
+479,1126,Cash,1,Paneer Tikka,High,20-10-2024
+480,1415,Cash,1,Pasta,High,20-10-2024
+481,727,UPI,2,Masala Dosa,High,20-10-2024
+482,1473,Cash,1,Paneer Tikka,Low,20-10-2024
+483,973,Credit Card,3,Pasta,Low,20-10-2024
+484,882,Cash,5,Masala Dosa,Medium,20-10-2024
+485,1167,UPI,5,Biryani,Medium,20-10-2024
+486,863,Debit Card,3,Paneer Tikka,Medium,20-10-2024
+487,1385,Cash,2,Masala Dosa,Low,20-10-2024
+488,1072,Debit Card,4,Masala Dosa,Medium,20-10-2024
+489,874,Credit Card,3,Butter Chicken,High,20-10-2024
+490,1395,Credit Card,4,Paneer Tikka,Low,20-10-2024
+491,707,Debit Card,2,Butter Chicken,Low,20-10-2024
+492,406,Cash,3,Butter Chicken,Low,20-10-2024
+493,818,Cash,4,Butter Chicken,Medium,20-10-2024
+494,1130,UPI,1,Paneer Tikka,High,20-10-2024
+495,1312,Credit Card,3,Pasta,High,20-10-2024
+496,428,Credit Card,1,Paneer Tikka,Low,20-10-2024
+497,1149,Debit Card,5,Biryani,Low,20-10-2024
+498,1433,Debit Card,1,Biryani,Low,20-10-2024
+499,930,Debit Card,3,Paneer Tikka,Medium,20-10-2024
+500,344,Cash,4,Paneer Tikka,High,20-10-2024
+501,914,Cash,5,Biryani,Medium,20-10-2024
+502,315,Credit Card,2,Masala Dosa,Low,20-10-2024
+503,1363,Cash,3,Pasta,High,20-10-2024
+504,458,Credit Card,2,Biryani,Medium,20-10-2024
+505,504,Cash,3,Masala Dosa,High,20-10-2024
+506,304,Cash,5,Masala Dosa,Low,20-10-2024
+507,1333,Cash,3,Pasta,Low,20-10-2024
+508,1460,Debit Card,3,Paneer Tikka,Medium,20-10-2024
+509,362,UPI,4,Paneer Tikka,Medium,20-10-2024
+510,630,Debit Card,1,Masala Dosa,Medium,20-10-2024
+511,1151,Debit Card,1,Paneer Tikka,High,20-10-2024
+512,416,UPI,2,Masala Dosa,Medium,20-10-2024
+513,807,Debit Card,2,Masala Dosa,Low,20-10-2024
+514,1431,UPI,5,Biryani,Low,20-10-2024
+515,360,UPI,2,Paneer Tikka,Low,20-10-2024
+516,443,Credit Card,4,Butter Chicken,Medium,20-10-2024
+517,1257,Debit Card,5,Butter Chicken,Low,20-10-2024
+518,1149,Debit Card,3,Pasta,Low,20-10-2024
+519,630,Debit Card,2,Paneer Tikka,Low,20-10-2024
+520,847,Cash,2,Masala Dosa,High,20-10-2024
+521,1113,Cash,4,Masala Dosa,Medium,20-10-2024
+522,745,Debit Card,4,Butter Chicken,Medium,20-10-2024
+523,368,Debit Card,4,Biryani,Low,20-10-2024
+524,1190,Cash,2,Butter Chicken,High,20-10-2024
+525,380,UPI,2,Biryani,Low,20-10-2024
+526,421,Credit Card,1,Masala Dosa,Low,20-10-2024
+527,1334,Credit Card,2,Biryani,High,20-10-2024
+528,1185,UPI,2,Paneer Tikka,High,20-10-2024
+529,500,Cash,3,Biryani,Low,20-10-2024
+530,1001,UPI,2,Biryani,High,20-10-2024
+531,1067,UPI,1,Biryani,High,20-10-2024
+532,567,Credit Card,4,Biryani,Low,20-10-2024
+533,1299,Credit Card,5,Paneer Tikka,Medium,20-10-2024
+534,1028,Cash,3,Masala Dosa,Low,20-10-2024
+535,685,Cash,2,Paneer Tikka,High,20-10-2024
+536,1470,Credit Card,1,Paneer Tikka,High,20-10-2024
+537,1372,Debit Card,2,Pasta,High,20-10-2024
+538,494,Credit Card,4,Paneer Tikka,Low,20-10-2024
+539,407,Credit Card,1,Paneer Tikka,Low,20-10-2024
+540,990,UPI,5,Butter Chicken,Medium,20-10-2024
+541,855,Credit Card,2,Biryani,Low,20-10-2024
+542,1425,Cash,2,Pasta,Low,20-10-2024
+543,310,Debit Card,2,Pasta,High,20-10-2024
+544,1389,Cash,5,Pasta,Medium,20-10-2024
+545,1171,Credit Card,5,Pasta,High,20-10-2024
+546,1034,Credit Card,2,Biryani,Low,20-10-2024
+547,1141,Debit Card,1,Masala Dosa,High,20-10-2024
+548,887,UPI,5,Biryani,Low,20-10-2024
+549,762,Credit Card,3,Pasta,High,20-10-2024
+550,1231,UPI,1,Biryani,Low,20-10-2024
+551,1330,Cash,2,Biryani,Medium,20-10-2024
+552,943,Credit Card,3,Paneer Tikka,Low,20-10-2024
+553,424,Debit Card,2,Biryani,Medium,20-10-2024
+554,976,UPI,2,Pasta,Low,20-10-2024
+555,1493,Debit Card,3,Paneer Tikka,High,20-10-2024
+556,648,Debit Card,5,Butter Chicken,High,20-10-2024
+557,1255,Debit Card,1,Paneer Tikka,High,20-10-2024
+558,874,Credit Card,3,Biryani,Medium,20-10-2024
+559,682,Cash,1,Pasta,Medium,20-10-2024
+560,673,Credit Card,5,Paneer Tikka,High,20-10-2024
+561,1216,Debit Card,1,Paneer Tikka,Low,20-10-2024
+562,380,Debit Card,3,Pasta,Low,20-10-2024
+563,1409,UPI,5,Butter Chicken,Medium,20-10-2024
+564,1237,Credit Card,2,Paneer Tikka,Low,20-10-2024
+565,953,Debit Card,1,Paneer Tikka,Low,20-10-2024
+566,1435,UPI,5,Paneer Tikka,High,20-10-2024
+567,1026,Cash,3,Paneer Tikka,High,20-10-2024
+568,1087,Credit Card,2,Masala Dosa,Low,20-10-2024
+569,1340,Credit Card,3,Pasta,High,20-10-2024
+570,1329,Cash,4,Masala Dosa,High,20-10-2024
+571,1210,Credit Card,3,Butter Chicken,High,20-10-2024
+572,1008,Debit Card,2,Butter Chicken,High,20-10-2024
+573,678,Debit Card,3,Paneer Tikka,High,20-10-2024
+574,1056,Credit Card,2,Biryani,Low,20-10-2024
+575,1223,UPI,5,Paneer Tikka,Low,20-10-2024
+576,683,Debit Card,1,Masala Dosa,High,20-10-2024
+577,1261,Debit Card,3,Biryani,High,20-10-2024
+578,874,Credit Card,5,Pasta,High,20-10-2024
+579,1268,Cash,2,Biryani,High,20-10-2024
+580,1494,Debit Card,5,Biryani,Low,20-10-2024
+581,480,Debit Card,3,Masala Dosa,High,20-10-2024
+582,1205,Credit Card,1,Paneer Tikka,Medium,20-10-2024
+583,1122,Debit Card,4,Pasta,High,20-10-2024
+584,1034,Cash,2,Masala Dosa,Medium,20-10-2024
+585,973,Credit Card,1,Biryani,Low,20-10-2024
+586,1288,Credit Card,1,Paneer Tikka,Low,20-10-2024
+587,313,Cash,2,Butter Chicken,High,20-10-2024
+588,1083,Debit Card,5,Biryani,Medium,20-10-2024
+589,743,UPI,4,Pasta,Low,20-10-2024
+590,865,Debit Card,4,Butter Chicken,High,20-10-2024
+591,748,Debit Card,1,Pasta,Medium,20-10-2024
+592,1086,Debit Card,5,Masala Dosa,Medium,20-10-2024
+593,1394,UPI,3,Biryani,Low,20-10-2024
+594,965,Debit Card,2,Butter Chicken,High,20-10-2024
+595,611,Cash,2,Paneer Tikka,Medium,20-10-2024
+596,899,Credit Card,1,Butter Chicken,High,20-10-2024
+597,402,Credit Card,1,Biryani,High,20-10-2024
+598,1328,Cash,1,Biryani,Low,20-10-2024
+599,1072,UPI,2,Biryani,High,20-10-2024
+600,536,Cash,2,Butter Chicken,Low,20-10-2024
+601,368,UPI,2,Paneer Tikka,Medium,20-10-2024
+602,323,Cash,4,Paneer Tikka,Medium,20-10-2024
+603,846,Cash,2,Butter Chicken,Medium,20-10-2024
+604,1420,Cash,4,Butter Chicken,High,20-10-2024
+605,873,Debit Card,4,Paneer Tikka,Medium,20-10-2024
+606,353,UPI,5,Pasta,Medium,20-10-2024
+607,910,Cash,5,Masala Dosa,Low,20-10-2024
+608,1265,Cash,2,Masala Dosa,Low,20-10-2024
+609,430,UPI,4,Masala Dosa,Medium,20-10-2024
+610,644,UPI,4,Masala Dosa,High,20-10-2024
+611,482,Credit Card,2,Pasta,Medium,20-10-2024
+612,942,UPI,5,Butter Chicken,Medium,20-10-2024
+613,1259,Debit Card,2,Biryani,High,20-10-2024
+614,1161,Credit Card,5,Masala Dosa,High,20-10-2024
+615,439,Cash,4,Paneer Tikka,Low,20-10-2024
+616,389,Debit Card,4,Paneer Tikka,Medium,20-10-2024
+617,990,Credit Card,5,Butter Chicken,Low,20-10-2024
+618,786,UPI,4,Butter Chicken,Low,20-10-2024
+619,1456,Credit Card,4,Paneer Tikka,Medium,20-10-2024
+620,1279,Cash,2,Paneer Tikka,Low,20-10-2024
+621,391,Debit Card,3,Pasta,Medium,20-10-2024
+622,1054,Debit Card,2,Masala Dosa,High,20-10-2024
+623,749,UPI,5,Butter Chicken,Low,20-10-2024
+624,1072,Credit Card,3,Butter Chicken,High,20-10-2024
+625,1349,UPI,5,Paneer Tikka,High,20-10-2024
+626,442,Credit Card,5,Butter Chicken,Medium,20-10-2024
+627,1330,Cash,5,Biryani,Medium,20-10-2024
+628,680,Cash,5,Butter Chicken,Low,20-10-2024
+629,1214,Debit Card,1,Masala Dosa,Medium,20-10-2024
+630,701,UPI,1,Biryani,Low,20-10-2024
+631,1317,Cash,5,Masala Dosa,Medium,20-10-2024
+632,449,UPI,4,Biryani,High,20-10-2024
+633,1432,UPI,2,Pasta,Low,20-10-2024
+634,538,UPI,2,Butter Chicken,Low,20-10-2024
+635,1009,UPI,2,Masala Dosa,Low,20-10-2024
+636,1015,Cash,5,Paneer Tikka,Medium,20-10-2024
+637,637,Cash,1,Biryani,Medium,20-10-2024
+638,1497,Credit Card,2,Masala Dosa,Low,20-10-2024
+639,1354,Credit Card,4,Masala Dosa,High,20-10-2024
+640,1174,Credit Card,4,Masala Dosa,Medium,20-10-2024
+641,815,Credit Card,5,Biryani,Low,20-10-2024
+642,791,Credit Card,1,Pasta,Low,20-10-2024
+643,682,Credit Card,5,Paneer Tikka,Low,20-10-2024
+644,1244,Debit Card,1,Biryani,High,20-10-2024
+645,855,Credit Card,1,Masala Dosa,Medium,20-10-2024
+646,953,UPI,2,Masala Dosa,High,20-10-2024
+647,460,Debit Card,3,Biryani,Medium,20-10-2024
+648,992,UPI,1,Butter Chicken,High,20-10-2024
+649,1021,UPI,1,Masala Dosa,Medium,20-10-2024
+650,761,Debit Card,2,Biryani,Medium,20-10-2024
+651,1392,Cash,1,Paneer Tikka,Medium,20-10-2024
+652,1314,UPI,5,Biryani,High,20-10-2024
+653,1316,Cash,3,Biryani,Low,20-10-2024
+654,1342,Cash,4,Masala Dosa,Medium,20-10-2024
+655,1271,Debit Card,2,Pasta,Medium,20-10-2024
+656,1296,Cash,4,Pasta,High,20-10-2024
+657,633,Debit Card,2,Biryani,Medium,20-10-2024
+658,541,Debit Card,2,Paneer Tikka,Low,20-10-2024
+659,608,Credit Card,4,Masala Dosa,Medium,20-10-2024
+660,787,UPI,3,Pasta,Medium,20-10-2024
+661,950,Credit Card,5,Masala Dosa,Medium,20-10-2024
+662,998,Credit Card,3,Biryani,Medium,20-10-2024
+663,418,Credit Card,1,Butter Chicken,Medium,20-10-2024
+664,954,Credit Card,4,Butter Chicken,High,20-10-2024
+665,1409,Debit Card,2,Pasta,Low,20-10-2024
+666,1477,Credit Card,4,Masala Dosa,Medium,20-10-2024
+667,1321,Cash,5,Paneer Tikka,Low,20-10-2024
+668,719,Credit Card,2,Butter Chicken,Medium,20-10-2024
+669,831,Debit Card,3,Paneer Tikka,Low,20-10-2024
+670,932,Cash,3,Butter Chicken,Medium,20-10-2024
+671,401,Credit Card,3,Butter Chicken,High,20-10-2024
+672,682,Credit Card,2,Paneer Tikka,High,20-10-2024
+673,1311,Credit Card,4,Paneer Tikka,Medium,20-10-2024
+674,932,UPI,3,Masala Dosa,Low,20-10-2024
+675,505,Debit Card,2,Butter Chicken,Low,20-10-2024
+676,532,Debit Card,5,Paneer Tikka,Low,20-10-2024
+677,892,Cash,5,Paneer Tikka,Medium,20-10-2024
+678,1493,Debit Card,1,Pasta,Medium,20-10-2024
+679,1357,Credit Card,2,Butter Chicken,Medium,20-10-2024
+680,976,UPI,5,Biryani,Low,20-10-2024
+681,423,Credit Card,4,Paneer Tikka,Low,20-10-2024
+682,1258,Debit Card,4,Butter Chicken,Medium,20-10-2024
+683,395,Debit Card,4,Butter Chicken,Low,20-10-2024
+684,369,Credit Card,1,Paneer Tikka,Low,20-10-2024
+685,1295,Credit Card,2,Butter Chicken,Medium,20-10-2024
+686,865,Cash,2,Pasta,High,20-10-2024
+687,990,UPI,1,Paneer Tikka,High,20-10-2024
+688,881,Cash,4,Masala Dosa,Low,20-10-2024
+689,617,Debit Card,1,Biryani,High,20-10-2024
+690,1174,UPI,2,Masala Dosa,Low,20-10-2024
+691,948,UPI,1,Paneer Tikka,Low,20-10-2024
+692,897,Credit Card,2,Paneer Tikka,High,20-10-2024
+693,1095,Debit Card,1,Masala Dosa,Medium,20-10-2024
+694,448,Cash,1,Pasta,High,20-10-2024
+695,771,Cash,2,Butter Chicken,Medium,20-10-2024
+696,1349,Cash,5,Paneer Tikka,Low,20-10-2024
+697,510,Cash,1,Masala Dosa,Low,20-10-2024
+698,1041,UPI,4,Paneer Tikka,Low,20-10-2024
+699,1147,Cash,2,Butter Chicken,High,20-10-2024
+700,1148,Cash,3,Pasta,Low,20-10-2024
+701,562,Cash,3,Butter Chicken,Low,20-10-2024
+702,1352,Debit Card,2,Paneer Tikka,Medium,20-10-2024
+703,900,Cash,2,Butter Chicken,Low,20-10-2024
+704,421,Debit Card,1,Butter Chicken,Low,20-10-2024
+705,1032,Debit Card,1,Butter Chicken,Medium,20-10-2024
+706,717,Debit Card,4,Pasta,Medium,20-10-2024
+707,1192,Credit Card,2,Masala Dosa,Medium,20-10-2024
+708,439,Debit Card,2,Masala Dosa,Medium,20-10-2024
+709,1161,Debit Card,2,Masala Dosa,Medium,20-10-2024
+710,1328,Debit Card,3,Pasta,Medium,20-10-2024
+711,886,Credit Card,5,Butter Chicken,High,20-10-2024
+712,772,Debit Card,2,Biryani,Low,20-10-2024
+713,1414,Credit Card,3,Masala Dosa,High,20-10-2024
+714,665,Cash,4,Paneer Tikka,Medium,20-10-2024
+715,1355,Credit Card,4,Pasta,Low,20-10-2024
+716,1148,Credit Card,3,Biryani,Medium,20-10-2024
+717,1168,UPI,1,Biryani,High,20-10-2024
+718,880,Cash,2,Masala Dosa,Low,20-10-2024
+719,730,Debit Card,4,Paneer Tikka,Low,20-10-2024
+720,399,UPI,1,Masala Dosa,Low,20-10-2024
+721,438,Credit Card,3,Masala Dosa,Low,20-10-2024
+722,1428,Cash,4,Butter Chicken,Medium,20-10-2024
+723,698,Cash,2,Paneer Tikka,Low,20-10-2024
+724,315,UPI,1,Pasta,Low,20-10-2024
+725,1393,Debit Card,2,Pasta,High,20-10-2024
+726,892,Cash,3,Butter Chicken,Low,20-10-2024
+727,800,Credit Card,3,Butter Chicken,High,20-10-2024
+728,1336,UPI,5,Pasta,Medium,20-10-2024
+729,1370,Cash,2,Paneer Tikka,Medium,20-10-2024
+730,363,Debit Card,4,Masala Dosa,High,20-10-2024
+731,535,Cash,1,Butter Chicken,Medium,20-10-2024
+732,620,Debit Card,2,Pasta,Medium,20-10-2024
+733,898,UPI,2,Butter Chicken,High,20-10-2024
+734,572,UPI,5,Biryani,High,20-10-2024
+735,428,UPI,2,Paneer Tikka,Low,20-10-2024
+736,502,Debit Card,4,Butter Chicken,Medium,20-10-2024
+737,1299,UPI,3,Butter Chicken,Medium,20-10-2024
+738,385,UPI,5,Pasta,Low,20-10-2024
+739,714,Credit Card,5,Biryani,Low,20-10-2024
+740,718,Cash,1,Paneer Tikka,Low,20-10-2024
+741,1321,Cash,2,Butter Chicken,Low,20-10-2024
+742,589,Credit Card,2,Biryani,Medium,20-10-2024
+743,836,UPI,2,Butter Chicken,High,20-10-2024
+744,804,Debit Card,2,Paneer Tikka,Medium,20-10-2024
+745,1284,Cash,5,Pasta,High,20-10-2024
+746,1429,Debit Card,3,Biryani,Medium,20-10-2024
+747,918,Cash,4,Biryani,Medium,20-10-2024
+748,758,UPI,3,Paneer Tikka,Low,20-10-2024
+749,927,UPI,4,Pasta,Medium,20-10-2024
+750,1413,Credit Card,2,Paneer Tikka,Low,20-10-2024
+751,571,Credit Card,1,Paneer Tikka,Medium,20-10-2024
+752,587,Credit Card,3,Butter Chicken,Medium,20-10-2024
+753,638,Credit Card,4,Masala Dosa,Low,20-10-2024
+754,659,Debit Card,3,Biryani,High,20-10-2024
+755,636,Credit Card,2,Paneer Tikka,Low,20-10-2024
+756,935,UPI,2,Paneer Tikka,Medium,20-10-2024
+757,1318,Cash,5,Butter Chicken,High,20-10-2024
+758,1321,UPI,4,Paneer Tikka,High,20-10-2024
+759,1054,Debit Card,4,Pasta,High,20-10-2024
+760,873,Cash,3,Masala Dosa,Low,20-10-2024
+761,1373,UPI,5,Pasta,High,20-10-2024
+762,905,UPI,4,Masala Dosa,High,20-10-2024
+763,1221,Debit Card,5,Masala Dosa,Low,20-10-2024
+764,772,Debit Card,4,Biryani,Medium,20-10-2024
+765,1016,Debit Card,2,Butter Chicken,High,20-10-2024
+766,390,Cash,1,Biryani,Low,20-10-2024
+767,616,Debit Card,5,Pasta,Medium,20-10-2024
+768,803,Credit Card,3,Biryani,Low,20-10-2024
+769,836,Debit Card,5,Paneer Tikka,High,20-10-2024
+770,1177,Cash,1,Paneer Tikka,Low,20-10-2024
+771,519,Cash,3,Masala Dosa,Low,20-10-2024
+772,768,Credit Card,3,Paneer Tikka,Low,20-10-2024
+773,1122,UPI,3,Butter Chicken,Low,20-10-2024
+774,785,Credit Card,2,Biryani,High,20-10-2024
+775,1030,UPI,3,Pasta,Medium,20-10-2024
+776,983,Credit Card,4,Biryani,High,20-10-2024
+777,1005,UPI,1,Butter Chicken,High,20-10-2024
+778,1429,Cash,3,Masala Dosa,Low,20-10-2024
+779,884,Debit Card,1,Paneer Tikka,High,20-10-2024
+780,1050,UPI,3,Masala Dosa,High,20-10-2024
+781,977,Debit Card,4,Paneer Tikka,High,20-10-2024
+782,819,Debit Card,1,Butter Chicken,Medium,20-10-2024
+783,641,Debit Card,2,Masala Dosa,Medium,20-10-2024
+784,1053,Debit Card,1,Biryani,Medium,20-10-2024
+785,362,Credit Card,5,Pasta,Medium,20-10-2024
+786,529,Debit Card,2,Pasta,Medium,20-10-2024
+787,1444,Cash,1,Biryani,High,20-10-2024
+788,1130,Cash,4,Pasta,High,20-10-2024
+789,502,Debit Card,3,Masala Dosa,High,20-10-2024
+790,1375,Credit Card,4,Butter Chicken,Medium,20-10-2024
+791,1379,Cash,3,Butter Chicken,Medium,20-10-2024
+792,1317,Cash,3,Paneer Tikka,High,20-10-2024
+793,768,Cash,3,Pasta,High,20-10-2024
+794,315,UPI,4,Biryani,High,20-10-2024
+795,1385,Credit Card,5,Biryani,Low,20-10-2024
+796,1328,UPI,1,Biryani,Medium,20-10-2024
+797,719,Debit Card,4,Biryani,High,20-10-2024
+798,443,Credit Card,5,Biryani,High,20-10-2024
+799,917,Cash,1,Masala Dosa,High,20-10-2024
+800,356,Debit Card,2,Masala Dosa,Medium,20-10-2024
+801,820,Credit Card,4,Biryani,High,20-10-2024
+802,919,Cash,3,Paneer Tikka,Low,20-10-2024
+803,506,UPI,3,Biryani,Medium,20-10-2024
+804,878,Debit Card,3,Biryani,Medium,20-10-2024
+805,1185,Credit Card,2,Butter Chicken,Low,20-10-2024
+806,749,Cash,2,Masala Dosa,High,20-10-2024
+807,1219,UPI,5,Paneer Tikka,High,20-10-2024
+808,1371,Debit Card,4,Paneer Tikka,Medium,20-10-2024
+809,993,Cash,3,Masala Dosa,Medium,20-10-2024
+810,994,Credit Card,5,Masala Dosa,Medium,20-10-2024
+811,815,Debit Card,4,Masala Dosa,Medium,20-10-2024
+812,1467,UPI,1,Biryani,High,20-10-2024
+813,300,Credit Card,2,Paneer Tikka,High,20-10-2024
+814,338,Cash,3,Masala Dosa,High,20-10-2024
+815,1050,Debit Card,1,Masala Dosa,High,20-10-2024
+816,1187,UPI,1,Paneer Tikka,Medium,20-10-2024
+817,1304,UPI,2,Masala Dosa,Medium,20-10-2024
+818,600,Cash,1,Butter Chicken,High,20-10-2024
+819,468,Debit Card,4,Pasta,Medium,20-10-2024
+820,533,Credit Card,2,Masala Dosa,Low,20-10-2024
+821,711,UPI,3,Biryani,Medium,20-10-2024
+822,376,Credit Card,5,Pasta,Medium,20-10-2024
+823,358,Debit Card,3,Paneer Tikka,Medium,20-10-2024
+824,1455,Credit Card,3,Biryani,High,20-10-2024
+825,680,UPI,2,Paneer Tikka,Low,20-10-2024
+826,749,UPI,2,Butter Chicken,Low,20-10-2024
+827,319,UPI,2,Butter Chicken,High,20-10-2024
+828,1428,UPI,3,Butter Chicken,Medium,20-10-2024
+829,1402,Credit Card,4,Paneer Tikka,High,20-10-2024
+830,1145,Debit Card,4,Masala Dosa,Low,20-10-2024
+831,457,Cash,3,Pasta,Low,20-10-2024
+832,1264,UPI,5,Biryani,Medium,20-10-2024
+833,1018,UPI,3,Butter Chicken,Medium,20-10-2024
+834,1427,UPI,3,Pasta,Medium,20-10-2024
+835,525,Debit Card,3,Masala Dosa,Medium,20-10-2024
+836,1156,Credit Card,3,Butter Chicken,Low,20-10-2024
+837,422,Credit Card,5,Pasta,Low,20-10-2024
+838,1061,Debit Card,3,Biryani,Low,20-10-2024
+839,522,Debit Card,4,Biryani,Low,20-10-2024
+840,341,UPI,1,Pasta,Medium,20-10-2024
+841,731,UPI,1,Biryani,Medium,20-10-2024
+842,512,UPI,3,Pasta,Medium,20-10-2024
+843,1037,Credit Card,1,Pasta,Low,20-10-2024
+844,349,Cash,5,Masala Dosa,Medium,20-10-2024
+845,1199,Debit Card,2,Masala Dosa,Medium,20-10-2024
+846,1251,Debit Card,1,Pasta,Low,20-10-2024
+847,626,UPI,3,Pasta,Low,20-10-2024
+848,857,UPI,2,Pasta,Low,20-10-2024
+849,461,Cash,5,Pasta,High,20-10-2024
+850,1407,Debit Card,2,Masala Dosa,Low,20-10-2024
+851,646,Debit Card,5,Masala Dosa,Low,20-10-2024
+852,544,Cash,5,Masala Dosa,Low,20-10-2024
+853,1249,UPI,1,Paneer Tikka,High,20-10-2024
+854,896,UPI,2,Butter Chicken,Medium,20-10-2024
+855,1369,Debit Card,5,Biryani,High,20-10-2024
+856,858,Debit Card,3,Masala Dosa,High,20-10-2024
+857,1219,UPI,1,Butter Chicken,High,20-10-2024
+858,382,Debit Card,4,Butter Chicken,Medium,20-10-2024
+859,685,Debit Card,3,Biryani,Medium,20-10-2024
+860,602,UPI,1,Biryani,Low,20-10-2024
+861,301,Cash,3,Biryani,Medium,20-10-2024
+862,516,Debit Card,5,Pasta,Low,20-10-2024
+863,393,Debit Card,1,Pasta,High,20-10-2024
+864,1337,Debit Card,5,Biryani,Low,20-10-2024
+865,1498,Credit Card,1,Masala Dosa,High,20-10-2024
+866,338,Cash,4,Paneer Tikka,Low,20-10-2024
+867,712,Cash,2,Biryani,Low,20-10-2024
+868,716,UPI,3,Masala Dosa,Low,20-10-2024
+869,1073,Cash,2,Paneer Tikka,High,20-10-2024
+870,552,UPI,5,Masala Dosa,Low,20-10-2024
+871,536,Debit Card,5,Pasta,Medium,20-10-2024
+872,448,Debit Card,2,Pasta,Low,20-10-2024
+873,1242,Credit Card,1,Masala Dosa,Low,20-10-2024
+874,634,UPI,1,Pasta,Low,20-10-2024
+875,935,Debit Card,4,Masala Dosa,Medium,20-10-2024
+876,460,Credit Card,1,Biryani,High,20-10-2024
+877,537,UPI,4,Pasta,Low,20-10-2024
+878,1098,Cash,2,Paneer Tikka,High,20-10-2024
+879,1252,UPI,3,Biryani,High,20-10-2024
+880,1252,Credit Card,4,Biryani,Low,20-10-2024
+881,619,UPI,2,Butter Chicken,High,20-10-2024
+882,1109,Credit Card,1,Biryani,Medium,20-10-2024
+883,1286,Cash,1,Paneer Tikka,High,20-10-2024
+884,471,UPI,5,Pasta,Medium,20-10-2024
+885,1068,Cash,5,Pasta,Medium,20-10-2024
+886,1457,Credit Card,1,Paneer Tikka,Medium,20-10-2024
+887,1020,Debit Card,5,Paneer Tikka,Medium,20-10-2024
+888,391,Debit Card,3,Masala Dosa,High,20-10-2024
+889,1007,Credit Card,5,Pasta,High,20-10-2024
+890,1436,Debit Card,1,Pasta,Medium,20-10-2024
+891,1224,UPI,4,Biryani,High,20-10-2024
+892,1038,Cash,2,Pasta,Medium,20-10-2024
+893,1472,Credit Card,2,Biryani,High,20-10-2024
+894,1410,Debit Card,5,Pasta,High,20-10-2024
+895,1051,UPI,5,Pasta,High,20-10-2024
+896,540,Credit Card,2,Butter Chicken,Low,20-10-2024
+897,490,Cash,2,Butter Chicken,Medium,20-10-2024
+898,1043,Credit Card,5,Pasta,Medium,20-10-2024
+899,717,Credit Card,1,Butter Chicken,Medium,20-10-2024
+900,1298,UPI,5,Pasta,High,20-10-2024
+901,646,Cash,2,Biryani,Medium,20-10-2024
+902,1275,Cash,3,Masala Dosa,Medium,20-10-2024
+903,332,Debit Card,1,Butter Chicken,Medium,20-10-2024
+904,475,Debit Card,5,Masala Dosa,High,20-10-2024
+905,1136,Debit Card,5,Paneer Tikka,Medium,20-10-2024
+906,1054,Credit Card,5,Pasta,Low,20-10-2024
+907,1473,Credit Card,4,Pasta,Low,20-10-2024
+908,300,UPI,2,Butter Chicken,Low,20-10-2024
+909,663,UPI,1,Butter Chicken,Low,20-10-2024
+910,1355,Credit Card,3,Paneer Tikka,High,20-10-2024
+911,999,Debit Card,2,Butter Chicken,Low,20-10-2024
+912,425,Credit Card,3,Paneer Tikka,High,20-10-2024
+913,1450,Debit Card,2,Butter Chicken,High,20-10-2024
+914,1180,UPI,3,Masala Dosa,High,20-10-2024
+915,1036,Credit Card,2,Masala Dosa,High,20-10-2024
+916,837,UPI,2,Butter Chicken,High,20-10-2024
+917,555,Cash,5,Paneer Tikka,High,20-10-2024
+918,1217,Debit Card,5,Butter Chicken,High,20-10-2024
+919,307,Cash,1,Biryani,High,20-10-2024
+920,1227,Debit Card,1,Butter Chicken,Low,20-10-2024
+921,352,Debit Card,1,Biryani,Medium,20-10-2024
+922,898,Debit Card,4,Pasta,Low,20-10-2024
+923,1278,Debit Card,4,Paneer Tikka,Low,20-10-2024
+924,736,Debit Card,5,Biryani,Medium,20-10-2024
+925,614,Debit Card,4,Paneer Tikka,High,20-10-2024
+926,1315,UPI,2,Masala Dosa,Medium,20-10-2024
+927,1026,Credit Card,5,Pasta,Medium,20-10-2024
+928,384,Credit Card,5,Biryani,Low,20-10-2024
+929,1012,Cash,2,Paneer Tikka,Medium,20-10-2024
+930,1122,Credit Card,5,Paneer Tikka,Medium,20-10-2024
+931,815,Credit Card,4,Pasta,Medium,20-10-2024
+932,413,UPI,5,Masala Dosa,High,20-10-2024
+933,1325,Credit Card,3,Pasta,Low,20-10-2024
+934,977,Cash,3,Butter Chicken,High,20-10-2024
+935,346,Cash,2,Paneer Tikka,Medium,20-10-2024
+936,1227,UPI,4,Paneer Tikka,Medium,20-10-2024
+937,981,Credit Card,1,Butter Chicken,Medium,20-10-2024
+938,730,UPI,2,Paneer Tikka,Medium,20-10-2024
+939,791,Debit Card,1,Masala Dosa,High,20-10-2024
+940,626,Debit Card,5,Biryani,Low,20-10-2024
+941,532,Credit Card,1,Paneer Tikka,High,20-10-2024
+942,1004,Cash,4,Biryani,High,20-10-2024
+943,338,Debit Card,5,Pasta,Medium,20-10-2024
+944,575,UPI,5,Pasta,Low,20-10-2024
+945,398,Credit Card,3,Pasta,Medium,20-10-2024
+946,645,UPI,3,Biryani,Medium,20-10-2024
+947,731,Cash,4,Masala Dosa,Low,20-10-2024
+948,728,Debit Card,5,Butter Chicken,High,20-10-2024
+949,1136,Debit Card,4,Pasta,High,20-10-2024
+950,368,Cash,4,Biryani,Medium,20-10-2024
+951,1397,Credit Card,1,Butter Chicken,Low,20-10-2024
+952,726,Debit Card,4,Pasta,Low,20-10-2024
+953,424,Debit Card,5,Paneer Tikka,High,20-10-2024
+954,475,Debit Card,4,Butter Chicken,High,20-10-2024
+955,984,Cash,5,Butter Chicken,High,20-10-2024
+956,395,UPI,4,Paneer Tikka,High,20-10-2024
+957,467,Credit Card,5,Pasta,Medium,20-10-2024
+958,752,Cash,2,Masala Dosa,High,20-10-2024
+959,1457,Debit Card,5,Paneer Tikka,Low,20-10-2024
+960,602,UPI,4,Masala Dosa,Medium,20-10-2024
+961,632,Credit Card,3,Paneer Tikka,High,20-10-2024
+962,826,Cash,3,Pasta,High,20-10-2024
+963,1321,UPI,1,Biryani,High,20-10-2024
+964,1348,Credit Card,2,Pasta,Medium,20-10-2024
+965,1182,Credit Card,2,Masala Dosa,High,20-10-2024
+966,395,Debit Card,2,Butter Chicken,Medium,20-10-2024
+967,1430,Cash,1,Biryani,Low,20-10-2024
+968,1471,Credit Card,3,Butter Chicken,Low,20-10-2024
+969,713,UPI,5,Masala Dosa,High,20-10-2024
+970,932,Credit Card,2,Pasta,Low,20-10-2024
+971,1014,UPI,3,Paneer Tikka,Low,20-10-2024
+972,1042,Credit Card,4,Paneer Tikka,Medium,20-10-2024
+973,948,Credit Card,1,Biryani,Low,20-10-2024
+974,1366,UPI,5,Biryani,Low,20-10-2024
+975,878,Debit Card,4,Masala Dosa,Low,20-10-2024
+976,303,Credit Card,1,Pasta,Low,20-10-2024
+977,1450,Credit Card,3,Paneer Tikka,Medium,20-10-2024
+978,1497,Debit Card,2,Paneer Tikka,Medium,20-10-2024
+979,1196,Credit Card,5,Masala Dosa,High,20-10-2024
+980,952,Debit Card,4,Masala Dosa,High,20-10-2024
+981,646,Cash,3,Biryani,Low,20-10-2024
+982,681,Cash,2,Masala Dosa,Low,20-10-2024
+983,921,Credit Card,3,Masala Dosa,Medium,20-10-2024
+984,1465,Credit Card,1,Pasta,Low,20-10-2024
+985,300,Cash,3,Biryani,High,20-10-2024
+986,871,Cash,3,Butter Chicken,Low,20-10-2024
+987,1289,Debit Card,5,Masala Dosa,Medium,20-10-2024
+988,588,Debit Card,5,Pasta,Medium,20-10-2024
+989,524,Credit Card,3,Butter Chicken,High,20-10-2024
+990,560,Cash,2,Pasta,High,20-10-2024
+991,1067,UPI,4,Paneer Tikka,High,20-10-2024
+992,1134,Cash,1,Pasta,Medium,20-10-2024
+993,384,Credit Card,5,Masala Dosa,Medium,20-10-2024
+994,1343,UPI,1,Butter Chicken,Medium,20-10-2024
+995,397,UPI,5,Butter Chicken,Low,20-10-2024
+996,983,Debit Card,3,Biryani,Medium,20-10-2024
+997,813,Cash,2,Butter Chicken,Medium,20-10-2024
+998,372,Debit Card,2,Paneer Tikka,Medium,20-10-2024
+999,1133,Cash,5,Paneer Tikka,Medium,20-10-2024
+1000,863,Debit Card,3,Masala Dosa,Low,20-10-2024
