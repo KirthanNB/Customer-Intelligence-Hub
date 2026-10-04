@@ -1,0 +1,35 @@
+# ==========================================
+# PYTHON ENVIRONMENT
+# ==========================================
+.venv/
+venv/
+ENV/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ==========================================
+# DATA & CREDENTIALS (CRITICAL - DO NOT UPLOAD)
+# ==========================================
+.env
+.env.*
+*.env
+
+restaurant_users_confirm.csv
+restaurant_users_test_with_labels.csv
+
+# ==========================================
+# IDE & OS FILES
+# ==========================================
+.idea/
+.vscode/
+*.swp
+*~
+
+# ==========================================
+# STREAMLIT (Deployment Specific)
+# ==========================================
+.streamlit/secrets.toml
